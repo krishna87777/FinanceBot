@@ -41,7 +41,7 @@ The Indian Stock Dashboard is a powerful web application built with Streamlit th
 ### Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/indian-stock-dashboard.git
+   git clone https://github.com/krishna87777/FinanceBot
    cd indian-stock-dashboard
    ```
 
